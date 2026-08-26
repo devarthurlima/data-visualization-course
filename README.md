@@ -10,7 +10,9 @@ Repositório dedicado aos exercícios práticos e tarefas do curso de Visualiza�
 
 ## 📚 Conteúdo e Progresso
 - [x] **Aula 1:** Explorando conjuntos de dados
-- [x] **Aula 2:** Fundamentos de visualização de dados & dados categóricos (Em andamento)
-- [ ] **Aula 3:** ...
-- [ ] **Aula 4:** ...
-
+- [x] **Aula 2:** Fundamentos de visualização de dados & dados categóricos 
+- [x] **Aula 3:** Visualização de distribuições, dados quantitativos e séries temporais
+- [ ] **Aula 4:** Visualizando distribuições entre categorias e relações par-a-par
+- [ ] **Aula 5:** Construindo dashboards
+- [ ] **Aula 6:** Mapas
+- [ ] **Aula 7:** Nuvem de palavras
