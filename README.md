@@ -12,7 +12,7 @@ Repositório dedicado aos exercícios práticos e tarefas do curso de Visualiza�
 - [x] **Aula 1:** Explorando conjuntos de dados
 - [x] **Aula 2:** Fundamentos de visualização de dados & dados categóricos 
 - [x] **Aula 3:** Visualização de distribuições, dados quantitativos e séries temporais
-- [ ] **Aula 4:** Visualizando distribuições entre categorias e relações par-a-par
-- [ ] **Aula 5:** Construindo dashboards
-- [ ] **Aula 6:** Mapas
-- [ ] **Aula 7:** Nuvem de palavras
+- [x] **Aula 4:** Visualizando distribuições entre categorias e relações par-a-par
+- [x] **Aula 5:** Construindo dashboards
+- [x] **Aula 6:** Mapas
+- [x] **Aula 7:** Nuvem de palavras
